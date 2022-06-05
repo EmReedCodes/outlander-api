@@ -15,7 +15,7 @@ const outlander = {
             'eyeColor': 'dark blue',
             'hairColor': 'red'
         },
-        'occupation': ['soldier', 'laird', "Propietor of Fraser's Ridge", 'Printer'],
+        'occupation': ['Soldier', 'Laird', "Propietor of Fraser's Ridge", 'Printer'],
         'quote': "For if you feel for me as I do for you–then I am asking you to tear out your heart and live without it.",
         'image': 'https://static.wikia.nocookie.net/outlander/images/d/d9/S5-Jamie.jpg'
 
@@ -29,7 +29,7 @@ const outlander = {
             'eyeColor': 'light brown/gold',
             'hairColor': 'curly light brown'
         },
-        'occupation': 'Physician',
+        'occupation': ['Physician'],
         'quote':  "All right you bloody Scottish bastard, let’s see how stubborn you really are.",
         'image': 'https://static.wikia.nocookie.net/outlander/images/6/68/S06E03-still15.jpg'
     },
@@ -55,7 +55,7 @@ const outlander = {
             'eyeColor': 'hazel',
             'hairColor': 'dark brown'
         },
-        'occupation': "Captain of His Majesty's Eighth Dragoons",
+        'occupation': ["Captain of His Majesty's Eighth Dragoons"],
         'quote' : "I dwell in darkness, Madam, and darkness is where I belong.",
         'image': 'https://static.wikia.nocookie.net/outlander/images/a/a8/BJR-Season2.jpg'
     },
