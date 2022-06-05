@@ -31,7 +31,7 @@ const outlander = {
         },
         'occupation': 'Physician',
         'quote':  "All right you bloody Scottish bastard, let’s see how stubborn you really are.",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/6/68/S06E03-still15.jpg/revision/latest/scale-to-width-down/333?cb=20220320171422'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/6/68/S06E03-still15.jpg'
     },
     'brianna mackenzie': {
         'name': 'Brianna MacKenzie',
@@ -44,7 +44,7 @@ const outlander = {
         },
         'occupation': ['Engineer', 'Plant Inspector for North of Scotland'],
         'quote' : "I've seen a marriage made from obligation and one made for love. If I hadn't seen both, I could have lived with obligation. But I have seen both... and I won't.",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/8/85/S5-Brianna.jpg/revision/latest/scale-to-width-down/1000?cb=20200222014639'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/8/85/S5-Brianna.jpg'
     },
     'jonathon randall': {
         'name': 'Jonathon Randall',
@@ -57,7 +57,7 @@ const outlander = {
         },
         'occupation': "Captain of His Majesty's Eighth Dragoons",
         'quote' : "I dwell in darkness, Madam, and darkness is where I belong.",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/a/a8/BJR-Season2.jpg/revision/latest/scale-to-width-down/350?cb=20160609133755'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/a/a8/BJR-Season2.jpg'
     },
     'frank randall': {
         'name': 'Frank Randall',
@@ -70,7 +70,7 @@ const outlander = {
         },
         'occupation': ['Historian', 'Officer in the British Army'],
         'quote' : "I love you, Claire. Unconditionally. No matter what.",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/a/ad/3_Frank_648x1080.jpg/revision/latest/scale-to-width-down/300?cb=20170721030520'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/a/ad/3_Frank_648x1080.jpg'
     },
     'john grey': {
         'name': 'John Grey',
@@ -83,7 +83,7 @@ const outlander = {
         },
         'occupation': ['Soldier', 'Diplomat', 'Governor'],
         'quote' : "Do you know what is is to love someone, and never--Never!--Be able to give them peace, or joy, or happiness?",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/a/a7/S5-Lord-John.jpg/revision/latest/scale-to-width-down/318?cb=20200206031052'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/a/a7/S5-Lord-John.jpg'
     },
     'roger mackenzie': {
         'name': 'Roger Jerimiah Wakefield MacKenzie',
@@ -96,7 +96,7 @@ const outlander = {
         },
         'occupation': ['Historian', 'Minister'],
         'quote' : "Brianna, I love you all, or not at all.",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/e/e9/Roger-S6.jpg/revision/latest/scale-to-width-down/321?cb=20220514184539'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/e/e9/Roger-S6.jpg'
     },     
 }
 
