@@ -17,7 +17,7 @@ const outlander = {
         },
         'occupation': ['soldier', 'laird', "Propietor of Fraser's Ridge", 'Printer'],
         'quote': "For if you feel for me as I do for you–then I am asking you to tear out your heart and live without it.",
-        'image': 'https://static.wikia.nocookie.net/outlander/images/d/d9/S5-Jamie.jpg/revision/latest/scale-to-width-down/328?cb=20200222025214'
+        'image': 'https://static.wikia.nocookie.net/outlander/images/d/d9/S5-Jamie.jpg'
 
     },
     'claire fraser': {
